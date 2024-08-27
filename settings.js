@@ -1,45 +1,45 @@
 //base by DGXeon x Phantom
 //YouTube: @phantom-hacks01
-//Instagram: phantom-hacks01
-//Telegram: t.me/Hackerzone25
+//Instagram: kenan.96_
+//Telegram: t.me/243972681974
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@phantom-hacks01
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "*Phantom+Hacker"
-global.ytname = "YT: phantom-hacks01"
-global.socialm = ""
-global.location = "India, Mizoram, Aizawl"
+global.ownernomer = "243972681974"
+global.ownername = "KËNÄN"
+global.ytname = "YT: KËNÄN"
+global.socialm = "kenan.96_"
+global.location = "Arabie Saoudite, Riyadh, Asia"
 
-global.ownernumber = '2348108395270'  //creator number
-global.ownername = 'Phantom+Hacker' //owner name
-global.botname = 'xbug bot' //name of the bot
+global.ownernumber = '243972681974'  //creator number
+global.ownername = 'KENAN' //owner name
+global.botname = 'OBSCIRITE' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By Phantom'
-global.author = 'Hallo\n\nContact: 2348108395270'
+global.packname = 'Sticker By KËNÄN'
+global.author = 'Hallo\n\nContact: 243972681974'
 
 //console view/theme
-global.themeemoji = '😡'
-global.wm = "Phantom"
+global.themeemoji = '✏️'
+global.wm = "KËNÄN"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaBROanEquiLW3ii1n47'
+global.link = 'https://wa.me/243972681974'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
+global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -51,10 +51,10 @@ global.typemenu = 'v1'
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
+    prem: 'This feature can be used by KËNÄN only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'This feature can be used by KËNÄN only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
